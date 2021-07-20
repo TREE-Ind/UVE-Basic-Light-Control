@@ -13,9 +13,6 @@ import requests
 import json
 import time
 
-#prop_url = "http://192.168.1.68:8080/remote/object/property"
-#call_url = "http://192.168.1.68:8080/remote/object/call"
-
 class Ue4LightsControl(MycroftSkill):
     def __init__(self):
         MycroftSkill.__init__(self)
