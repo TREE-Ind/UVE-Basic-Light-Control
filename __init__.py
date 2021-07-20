@@ -19,8 +19,7 @@ class Ue4LightsControl(MycroftSkill):
 
     def initialize(self):
         #self.register_entity_file("name.entity")
-        #ip_address = self.settings.get('ip_address', 'http:/localhost')
-        ip_address = "http://192.168.1.68"
+        ip_address = self.settings.get('ip_address', 'http:/localhost')
         self.object_path = self.settings.get('bp_location', '/Game/CyberpunkIndustries/Maps/Demo_Map.Demo_Map:PersistentLevel.Lights_VC_2')
         self.prop_url = ip_address + ":8080/remote/object/property"
         self.call_url = ip_address + ":8080/remote/object/call"
