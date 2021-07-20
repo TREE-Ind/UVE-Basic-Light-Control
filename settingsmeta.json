@@ -14,7 +14,7 @@
                         "name": "bp_location",
                         "type": "text",
                         "label": "Location of the Lights Voice Control Blueprint",
-                        "value": "/Game/SoulCity/Maps/LV_Soul_Slum.LV_Soul_Slum:PersistentLevel.DragonFly_VC_BP_2"
+                        "value": "/Game/Maps/Example_Map:PersistentLevel.UVE_Light_Control_BP_2"
                     }
                 ]
             }
