@@ -1,0 +1,23 @@
+ {
+    "skillMetadata": {
+        "sections": [
+            {
+                "name": "UE4 Light Skill Configuration",
+                "fields": [
+                    {
+                        "name": "ip_address",
+                        "type": "text",
+                        "label": "The IP Address of the machine running Unreal Engine",
+                        "value": "http://localhost"
+                    },
+                    {
+                        "name": "bp_location",
+                        "type": "text",
+                        "label": "Location of the Lights Voice Control Blueprint",
+                        "value": "/Game/SoulCity/Maps/LV_Soul_Slum.LV_Soul_Slum:PersistentLevel.DragonFly_VC_BP_2"
+                    }
+                ]
+            }
+        ]
+    }
+}
