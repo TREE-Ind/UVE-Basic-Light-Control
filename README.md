@@ -9,6 +9,9 @@ Turn lights on or off, change color, adjust intensity, etc using only voice.
 Turn on all the spot lights
 Turn off all the point lights
 
+## Demo Video
+Controlling lights - https://www.youtube.com/watch?v=vwu2gXPhJQM
+
 ## Credits
 TREE Ind
 
